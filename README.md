@@ -14,7 +14,7 @@
   - [Healthcare & Clinics](https://levelcfo.com/benchmarks/healthcare/) · [Restaurants](https://levelcfo.com/benchmarks/restaurants/) · [Cleaning & Janitorial](https://levelcfo.com/benchmarks/cleaning/) · [Staffing Agencies](https://levelcfo.com/benchmarks/staffing/) · [Landscaping](https://levelcfo.com/benchmarks/landscaping/) · [Ecommerce & DTC](https://levelcfo.com/benchmarks/ecommerce/)
   - [Contractor Field Software Comparison](https://levelcfo.com/benchmarks/contractor-software-comparison/) · [Multi-Industry Finance Software Benchmark](https://levelcfo.com/benchmarks/finance-software/)
 - **Level Open Finance (v0.2.1)**: [https://levelcfo.com/finance-systems/](https://levelcfo.com/finance-systems/)
-- **The Trade Economy Index & Commercial Building Value Calculator**: [https://tradesindex.org](https://tradesindex.org) · [https://levelcfo.com/tools/building-value-calculator/](https://levelcfo.com/tools/building-value-calculator/) · [MCP Server](https://tradesindex.org/mcp/)
+- **The Trade Economy Index & Commercial Building Value Calculator**: [https://tradesindex.org](https://tradesindex.org) · [https://levelcfo.com/tools/building-revenue-calculator/](https://levelcfo.com/tools/building-revenue-calculator/) · [MCP Server](https://tradesindex.org/mcp/)
 
 ---
 
